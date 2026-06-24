@@ -1,3 +1,3 @@
 # mkfirstrepository
 Repository for learning purpose
-Author: Manish Kumar
+/nAuthor: Manish Kumar
